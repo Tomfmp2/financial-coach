@@ -3,10 +3,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-  .card {
-    @apply bg-white/50 backdrop-blur-sm p-6 rounded-xl 
-           text-center font-medium shadow-md 
-           hover:bg-white/70 hover:scale-105 transition-all duration-300;
-  }
-}
+
